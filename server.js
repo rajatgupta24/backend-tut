@@ -6,10 +6,10 @@
 // 'use strict';
 
 var fs = require('fs');
+var myApp = require('./myApp');
 var express = require('express');
 var app = express();
 
-console.log("Hello World")
 
 // if (!process.env.DISABLE_XORIGIN) {
 //   app.use(function(req, res, next) {
