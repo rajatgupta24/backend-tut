@@ -1,0 +1,11 @@
+{
+  "name": "npm-tut",
+  "version": "1.0.0",
+  "description": "npm tutorial",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Rajat Gupta",
+  "license": "MIT"
+}
