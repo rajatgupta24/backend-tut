@@ -8,12 +8,12 @@
 		"express",
 		"mongoDB",
 		"npm",
-    "freecodecamp"
+		"freecodecamp"
 	],
 	"license": "MIT",
 	"dependencies": {
 		"express": "^4.17.1",
-		"moment": "^2.14.0"
+		"moment": "^2.29.1"
 	},
 	"start": "node server.js",
 	"scripts": {
