@@ -1,11 +1,15 @@
 {
-  "name": "npm-tut",
-  "version": "1.0.0",
-  "description": "npm tutorial",
-  "main": "index.js",
-  "scripts": {
-    "start": "node index.js"
-  },
-  "author": "Rajat Gupta",
-  "license": "MIT"
+	"name": "fcc-learn-npm-package-json",
+  "author": "Rajat Gupta", 
+	"dependencies": {
+		"express": "^4.14.0"
+	},
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://idontknow/todo.git"
+	}
 }
