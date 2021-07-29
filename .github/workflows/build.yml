@@ -36,5 +36,5 @@ jobs:
       - uses: akhileshns/heroku-deploy@v3.12.12
         with:
           heroku_api_key: ${{secrets.HEROKU_API_KEY}}
-          heroku_app_name: "guarded-coast-13029"
+          heroku_app_name: "fast-shelf-56762"
           heroku_email: ${{secrets.EMAIL}}
